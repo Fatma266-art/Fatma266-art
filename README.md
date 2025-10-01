@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm Fatma  
+💻 AI & Data Science Student | Machine Learning Enthusiast  
 
-<!--
-**Fatma266-art/Fatma266-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me  
+- 🎓 Currently studying at Faculty of Artificial Intelligence.  
+- 🤖 Passionate about Machine Learning & Data Science.  
+- 📊 Interested in Data Analysis & Visualization.  
+- 💡 Always learning and exploring new technologies.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Skills  
+- Programming: Python, C++  
+- Data Analysis: Pandas, NumPy, Matplotlib, Seaborn, Excel, Power Bi  
+- Machine Learning: Scikit-learn, TensorFlow (basics), PyTorch  
+- Databases: SQL  
+- Tools: Git, GitHub, Jupyter Notebook, VS Code  
+
+---
+
+## 📌 Currently Learning  
+- Deep Learning basics  
+- Algorithms & Data Structures  
+- Machine Learning Algorithms
+
+
+---
+
+## 🤝 Let's Connect  
+- 💼 [LinkedIn](www.linkedin.com/in/fatma-hegazy)  
+- 📧 Email: fatmahegazy984@gmail.com 
+
+---
+
+✨ "Keep learning, keep growing." ✨
