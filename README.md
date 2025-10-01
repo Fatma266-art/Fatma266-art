@@ -4,10 +4,24 @@
 
 ###
 
+
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/fatma-hegazy" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo" />
+  </a>
+  <img width="12" />
+
+  <!-- Gmail -->
+  <a href="mailto:fatmahegazy984@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" height="40" alt="gmail logo" />
+  </a>
+  <img width="12" />
+
+  <!-- WhatsApp -->
+  <a href="https://wa.me/201022755737" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" height="40" alt="whatsapp logo" />
+  </a>
 </div>
 
 ###
@@ -39,8 +53,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
@@ -71,5 +83,3 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Fatma266-art&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
-###
