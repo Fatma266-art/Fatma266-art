@@ -29,7 +29,7 @@
 ---
 
 ## 🤝 Let's Connect  
-- 💼 [LinkedIn](www.linkedin.com/in/fatma-hegazy)  
+- 💼 [LinkedIn]: www.linkedin.com/in/fatma-hegazy  
 - 📧 Email: fatmahegazy984@gmail.com 
 
 ---
